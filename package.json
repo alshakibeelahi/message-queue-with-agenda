@@ -1,0 +1,17 @@
+{
+  "name": "message-queue-with-agenda-no-redis-docker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev-agenda": "node messageQueueServer.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^5.0.0",
+    "mongoose": "^8.4.0"
+  }
+}
