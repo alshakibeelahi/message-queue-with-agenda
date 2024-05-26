@@ -25,4 +25,5 @@ To integrate this email sending queue into your existing Node.js or Express serv
 4. Open your `package.json` file
 5. Add the following script:
 ```json
-"dev-agenda": "node messageQueue.js"
+"dev-agenda": "node <path of --->messageQueue.js>"
+```
