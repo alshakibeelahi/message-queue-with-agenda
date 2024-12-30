@@ -1,4 +1,4 @@
-# Email Queue with Agenda
+# Message Queue with Agenda
 
 This is a basic template for creating a email sending queue with Agenda, without needing Docker and Redis support.
 
